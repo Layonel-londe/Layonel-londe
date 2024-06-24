@@ -8,7 +8,6 @@ I have a deep passion for both technology and art. The intersection of these two
 🌱 Learning Journey
 I'm currently diving into the world of frontend development. My goal is to become a proficient developer and create innovative and user-friendly web applications. The learning never stops, and I'm excited about the endless possibilities that lie ahead.
 
-💞️ Collaboration
 I'm eager to collaborate on projects, especially those suitable for beginners or entry-level professionals. If you have an idea or a project that needs a fresh perspective, I'd love to be a part of it!
 
 📫 Get in Touch
