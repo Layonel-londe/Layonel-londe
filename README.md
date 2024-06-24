@@ -10,11 +10,12 @@ I'm currently diving into the world of frontend development. My goal is to becom
 
 I'm eager to collaborate on projects, especially those suitable for beginners or entry-level professionals. If you have an idea or a project that needs a fresh perspective, I'd love to be a part of it!
 
-📫 Get in Touch
+📫 
 Feel free to reach out to me via email or phone:
 
 Email: layonellonde@gmail.com
 Phone: +55 (51) 991002538
+
 😄 Pronouns
 He/Him
 
